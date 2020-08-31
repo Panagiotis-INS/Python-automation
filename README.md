@@ -1,2 +1,2 @@
-# Python-automation
-This repo includes projects about automations based in python
+# Software-automation
+This repo includes projects about computer and software automations
