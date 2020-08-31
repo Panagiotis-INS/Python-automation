@@ -17,6 +17,6 @@ int main(){
 		}
 	}while(!mf.eof());
 	command="rm to_move.txt";
-	//system(command.c_str());
+	system(command.c_str());
 	return 0;
 }
